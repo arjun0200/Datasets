@@ -1,0 +1,1876 @@
+Flight_Name,Arrival_Location,Destination_Location,No of Stops,Price_final,Arrival_time_hour,Arrival_time_min,Destination_time_hour,Destination_time_min,Durations,Day,Flight_Date,Month
+Spice Jet,DEL,BLR,Non Stop,9419.0,20,0,22,30,150, Wed,20,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,20,30,23,25,175, Wed,20,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,8,10,10,40,150, Wed,20,Jul
+Spice Jet,DEL,BLR,Non Stop,9419.0,6,5,8,55,170, Wed,20,Jul
+Air Asia,DEL,BLR,Non Stop,9945.0,9,35,12,25,170, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,25,0,20,355, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,10,21,15,785, Wed,20,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,21,40,0,30,170, Wed,20,Jul
+Air Asia,DEL,BLR,Non Stop,9663.0,18,45,21,40,175, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,2,25,5,15,170, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,22,55,1,45,170, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,55,9,50,175, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,21,15,380, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,0,20,565, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,17,40,405, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,30,22,20,470, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,22,45,8,20,575, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,17,40,580, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,22,20,685, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,50,8,20,690, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,19,45,8,20,755, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,20,8,20,840, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,22,20,860, Wed,20,Jul
+Air India,DEL,BLR,Non Stop,9420.0,6,10,8,55,165, Wed,20,Jul
+Air India,DEL,BLR,Non Stop,9420.0,21,15,0,5,170, Wed,20,Jul
+Go Air,DEL,BLR,Non Stop,9466.0,10,50,15,5,255, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,17,5,0,15,430, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,20,10,45,865, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,0,8,35,155, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,21,30,0,15,165, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,20,10,23,0,170, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,18,0,275, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,15,10,15,300, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,50,12,5,315, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,15,20,30,315, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,18,0,23,40,340, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,8,15,385, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,45,12,10,385, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,0,21,35,395, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,9,30,460, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,16034.0,6,20,15,0,520, Wed,20,Jul
+Air Asia,DEL,BLR,2 Stop,9419.0,10,40,21,40,660, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,17,0,19,25,145, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,13,5,12,55,1430, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,17,5,16,50,1425, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,20,25,16,50,1225, Wed,20,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,15,30,20,45,315, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,6,30,12,55,385, Wed,20,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,14,55,22,55,480, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,6,15,14,35,500, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,9,35,19,30,595, Wed,20,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,10,40,21,40,660, Wed,20,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,15,30,1,20,590, Wed,20,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,14,55,0,5,550, Wed,20,Jul
+Vistara,DEL,BLR,Non Stop,9945.0,6,15,9,0,165, Wed,20,Jul
+Vistara,DEL,BLR,Non Stop,9945.0,19,50,22,40,170, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,35,490, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,45,500, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,9,35,18,0,505, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,0,23,40,520, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,12,45,21,35,530, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,7,0,16,20,560, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,50,15,5,255, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,9997.0,8,20,11,0,160, Wed,20,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,8,10,10,50,160, Wed,20,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,20,40,23,20,160, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,10522.0,18,30,21,15,165, Wed,20,Jul
+Air India,DEL,BLR,Non Stop,10890.0,13,30,16,15,165, Wed,20,Jul
+Air India,DEL,BLR,Non Stop,10890.0,17,15,20,15,180, Wed,20,Jul
+Vistara,DEL,BLR,Non Stop,11205.0,16,5,18,50,165, Wed,20,Jul
+Vistara,DEL,BLR,Non Stop,11205.0,17,35,20,25,170, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,10837.0,9,15,11,55,160, Wed,20,Jul
+Air Asia,DEL,BLR,1 Stop,10837.0,10,40,16,25,345, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,11041.0,17,55,23,55,360, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,11047.0,15,20,18,15,175, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,15168.0,5,20,10,45,325, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,11041.0,17,55,2,35,520, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,11362.0,13,0,15,35,155, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,11362.0,17,15,19,55,160, Wed,20,Jul
+Vistara,DEL,BLR,Non Stop,11940.0,9,5,11,50,165, Wed,20,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,7,50,835, Wed,20,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,11,10,1035, Wed,20,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,7,50,1040, Wed,20,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,11,10,1240, Wed,20,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,18,20,25, Wed,20,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,18,20,230, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,14,45,19,30,285, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,18,20,620, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,7,50,1430, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,11,10,190, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,12123.0,6,40,13,10,390, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,12123.0,2,0,9,20,440, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,12123.0,11,55,20,30,515, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,20,35,8,45,730, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,14,45,8,45,1080, Wed,20,Jul
+Vistara,DEL,BLR,Non Stop,12990.0,14,15,17,5,170, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,18,20,25, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,11,10,1240, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,18,20,230, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,7,50,1040, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,11,10,1035, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,7,50,835, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,12664.0,7,55,13,10,315, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,7,20,19,30,730, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,12664.0,7,55,17,55,600, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13599.0,7,20,8,45,85, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,17,45,300, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,15,30,20,55,325, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,17,45,23,10,325, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,16,55,23,10,375, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,19,15,390, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,17,45,445, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,15,30,23,10,460, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,20,55,490, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,9,30,17,45,495, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,19,15,535, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,19,15,585, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,12,45,23,10,625, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,20,55,635, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,8,50,680, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,20,55,685, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,8,50,730, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,23,10,770, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,23,10,820, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,17,45,8,50,905, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,8,50,955, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,8,50,1040, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,19,15,1305, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,19,15,1355, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,20,50,20,30,1420, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,8,0,8,30,30, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,18,15,1295, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,18,15,1245, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,18,0,21,50,230, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,20,19,15,295, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,18,15,330, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,17,45,365, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,18,15,395, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,20,20,55,395, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,19,15,455, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,18,15,475, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,9,30,18,15,525, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,14,20,23,10,530, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,17,45,535, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,20,55,555, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,18,15,565, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,17,45,615, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,19,15,625, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,18,15,645, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,23,10,690, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,19,15,705, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,17,45,710, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,20,55,725, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,18,15,740, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,20,50,8,30,700, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,8,0,20,30,750, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,19,15,800, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,20,55,805, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,23,10,860, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,20,55,900, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,23,10,940, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,8,50,690, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,8,50,880, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,5,55,21,50,955, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,18,15,1255, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,19,15,1315, Wed,20,Jul
+Indigo Air,DEL,BLR,Non Stop,13283.0,11,30,14,15,165, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,14126.0,17,35,8,45,910, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,21,30,10,45,795, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,20,40,10,45,845, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,17,45,10,45,1020, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,16,55,10,45,1070, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,13745.0,12,45,17,55,310, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,13745.0,8,30,14,25,355, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,13745.0,21,5,2,35,330, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,10,45,805, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,10,45,995, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,8,50,1150, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,10,45,1265, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,14565.0,7,0,18,20,680, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,21,30,17,45,1215, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,20,40,17,45,1265, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,13,25,17,55,270, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,11,15,16,30,315, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,8,50,940, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,10,45,1055, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,18,15,65, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,19,15,125, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,18,15,275, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,9,55,17,55,480, Wed,20,Jul
+Air India,DEL,BLR,Non Stop,14880.0,9,45,12,30,165, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,10,0,18,20,500, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,9,0,18,20,560, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,7,50,635, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,7,50,710, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,7,50,770, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,11,10,835, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,11,10,910, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,11,10,970, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,7,50,1070, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,18,20,1265, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,11,10,1270, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,18,20,1340, Wed,20,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,18,20,1400, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,17186.0,11,45,9,30,1305, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,5,55,10,45,290, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,19,0,8,50,830, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,19,0,19,15,15, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,14790.0,14,50,14,35,1425, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,17,45,20,30,165, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,14,10,8,30,1100, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,14,10,20,30,380, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,17,45,8,30,885, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,19,0,18,15,1395, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,16138.0,11,10,15,55,285, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,16331.0,10,25,19,30,545, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,19,0,10,45,945, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,16331.0,10,25,8,45,1340, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,15589.0,7,0,8,25,85, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,15589.0,18,50,8,25,815, Wed,20,Jul
+Spice Jet,DEL,BLR,1 Stop,15589.0,19,30,8,25,775, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,15929.0,7,20,14,25,425, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,17817.0,11,15,17,15,360, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,16804.0,20,35,19,30,1375, Wed,20,Jul
+Air India,DEL,BLR,2 Stop,17647.0,10,15,18,20,485, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,20,55,1415, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,23,10,110, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,8,50,140, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,18,10,20,55,165, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,18,10,23,10,300, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,20,55,865, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,18135.0,17,35,19,30,115, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,20,55,455, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,23,10,590, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,17,45,615, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,17,45,690, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,19,15,705, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,19,15,780, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,20,55,805, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,20,55,880, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,8,50,920, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,23,10,940, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,23,10,1015, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,15,55,8,50,1015, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,10,45,1035, Wed,20,Jul
+Air India,DEL,BLR,2 Stop,17647.0,10,15,7,50,1295, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,18,15,720, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,18,15,645, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,19708.0,17,10,18,15,65, Wed,20,Jul
+Indigo Air,DEL,BLR,1 Stop,18612.0,10,10,17,20,430, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,20,35,20,55,20, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,20,35,23,10,155, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,17,35,20,55,200, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,17,35,23,10,335, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,14,45,20,55,370, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,14,45,23,10,505, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,7,20,20,55,815, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,7,20,23,10,950, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,20,55,455, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,23,10,590, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,8,50,1170, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,22804.0,15,20,16,20,60, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,26148.0,10,25,20,55,630, Wed,20,Jul
+Vistara,DEL,BLR,2 Stop,26148.0,10,25,23,10,765, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,28843.0,9,50,16,20,390, Wed,20,Jul
+Air Asia,DEL,BLR,1 Stop,28346.0,7,10,15,25,495, Wed,20,Jul
+Air Asia,DEL,BLR,1 Stop,28346.0,5,45,15,25,580, Wed,20,Jul
+Vistara,DEL,BLR,1 Stop,32884.0,18,40,15,55,1275, Wed,20,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,21,15,380, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,0,20,565, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,21,15,710, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,0,20,895, Thu,21,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,21,40,0,30,170, Thu,21,Jul
+Spice Jet,DEL,BLR,Non Stop,9419.0,6,5,8,55,170, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,2,25,5,15,170, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,22,55,1,45,170, Thu,21,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,5,50,8,35,165, Thu,21,Jul
+Air Asia,DEL,BLR,Non Stop,11571.0,8,10,10,40,150, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,17,40,405, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,30,22,20,470, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,17,40,580, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,50,7,50,660, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,22,20,685, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,19,45,7,50,725, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,20,7,50,810, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,22,20,860, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9926.0,18,55,9,40,885, Thu,21,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,20,30,23,25,175, Thu,21,Jul
+Air India,DEL,BLR,Non Stop,9420.0,6,10,8,55,165, Thu,21,Jul
+Air India,DEL,BLR,Non Stop,9420.0,9,45,12,30,165, Thu,21,Jul
+Air India,DEL,BLR,Non Stop,9420.0,21,40,0,30,170, Thu,21,Jul
+Air India,DEL,BLR,Non Stop,9420.0,16,45,20,15,210, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,17,5,0,15,430, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,20,10,45,865, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,13,5,12,55,1430, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,7,0,8,25,85, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,14,0,12,10,1330, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,17,0,19,25,145, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,20,25,16,50,1225, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,6,30,12,55,385, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,9,35,19,30,595, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,18,50,8,25,815, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,19,30,8,25,775, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,0,8,35,155, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,8,20,11,0,160, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,11,30,14,15,165, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,21,30,0,15,165, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,20,10,23,0,170, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,55,9,50,175, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,18,0,275, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,15,10,15,300, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,50,12,5,315, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,15,20,30,315, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,17,55,23,55,360, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,8,15,385, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,45,12,10,385, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,35,20,40,425, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,10,10,17,20,430, Thu,21,Jul
+Air Asia,DEL,BLR,2 Stop,9419.0,10,40,21,40,660, Thu,21,Jul
+Air Asia,DEL,BLR,2 Stop,9419.0,5,10,21,40,990, Thu,21,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,15,30,20,45,315, Thu,21,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,10,40,21,40,660, Thu,21,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,5,10,16,25,675, Thu,21,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,5,10,21,40,990, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,35,490, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,9,35,18,0,505, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,11,55,20,30,515, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,0,23,40,520, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,17,55,2,35,520, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,7,0,16,20,560, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,17,35,8,45,910, Thu,21,Jul
+Air India,DEL,BLR,Non Stop,10155.0,13,30,16,15,165, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9997.0,13,0,15,35,155, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,9997.0,9,15,11,55,160, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,9960.0,12,45,21,35,530, Thu,21,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,16,5,18,50,165, Thu,21,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,14,15,17,5,170, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,17,45,300, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,17,45,445, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,9,30,17,45,495, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,19,0,17,45,1365, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,19,0,19,15,15, Thu,21,Jul
+Air Asia,DEL,BLR,1 Stop,10311.0,14,55,22,55,480, Thu,21,Jul
+Air Asia,DEL,BLR,1 Stop,10311.0,14,55,0,5,550, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,19,0,18,15,1395, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,20,40,19,15,1355, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,20,40,18,15,1295, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,20,40,17,45,1265, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,18,0,21,50,230, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,18,15,330, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,17,45,365, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,10,20,30,380, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,18,15,395, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,15,30,7,50,980, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,18,15,475, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,9,30,18,15,525, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,16,55,7,50,895, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,19,0,7,50,770, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,5,55,17,45,710, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,5,55,18,15,740, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,10907.0,20,40,7,50,670, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,10501.0,18,0,23,40,340, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,10501.0,21,5,2,35,330, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,10522.0,18,30,21,15,165, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,10522.0,15,20,18,15,175, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,5,55,21,50,955, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15611.0,17,10,18,15,65, Thu,21,Jul
+Vistara,DEL,BLR,Non Stop,11205.0,8,10,10,50,160, Thu,21,Jul
+Spice Jet,DEL,BLR,Non Stop,11309.0,20,0,22,30,150, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,11041.0,15,0,21,35,395, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,11041.0,7,20,14,25,425, Thu,21,Jul
+Indigo Air,DEL,BLR,Non Stop,11047.0,17,15,19,55,160, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,16451.0,11,15,17,15,360, Thu,21,Jul
+Vistara,DEL,BLR,Non Stop,11940.0,6,15,9,0,165, Thu,21,Jul
+Vistara,DEL,BLR,Non Stop,11940.0,9,5,11,50,165, Thu,21,Jul
+Go Air,DEL,BLR,Non Stop,12967.0,10,50,15,5,255, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,11582.0,6,40,13,10,390, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,11640.0,8,30,15,30,420, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,17186.0,11,45,9,30,1305, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,12902.0,10,50,15,5,255, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,7,50,835, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,11,10,1035, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,7,50,1040, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,11,10,1240, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,18,20,25, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,18,20,230, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,18,20,620, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,7,50,1430, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,11,10,190, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,14668.0,20,35,8,45,730, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,7,50,835, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,11,10,1035, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,7,50,1040, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,11,10,1240, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,18,20,25, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,18,20,230, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,12,45,19,15,390, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,10,20,19,15,535, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13408.0,9,30,19,15,585, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13408.0,19,0,8,50,830, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13408.0,19,0,10,45,945, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13408.0,16,55,8,50,955, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13408.0,15,30,8,50,1040, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13408.0,16,55,10,45,1070, Thu,21,Jul
+Spice Jet,DEL,BLR,1 Stop,12589.0,14,50,14,35,1425, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,12664.0,8,30,14,25,355, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,14,20,19,15,295, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,11,40,19,15,455, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13408.0,20,40,10,45,845, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13408.0,20,40,8,50,730, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13408.0,5,55,19,15,800, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,14089.0,13,20,19,15,355, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13849.0,21,30,17,45,1215, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13849.0,21,30,19,15,1305, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,16,55,23,10,375, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,15,30,23,10,460, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13933.0,12,45,23,10,625, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13933.0,10,20,23,10,770, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13933.0,9,30,23,10,820, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13849.0,21,30,18,15,1245, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13849.0,21,30,7,50,620, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,7,50,820, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,17,45,1225, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,18,15,1255, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,19,15,1315, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,18,10,17,45,1415, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,17,45,1415, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,18,10,18,15,5, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,13204.0,13,25,17,55,270, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,14,20,23,10,530, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13933.0,11,40,23,10,690, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,14023.0,8,40,18,20,580, Thu,21,Jul
+Air Asia,DEL,BLR,Non Stop,13829.0,18,45,21,40,175, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,13933.0,5,55,23,10,1035, Thu,21,Jul
+Vistara,DEL,BLR,Non Stop,14355.0,20,40,23,20,160, Thu,21,Jul
+Vistara,DEL,BLR,Non Stop,14355.0,19,50,22,40,170, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,8,50,17,45,535, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,14374.0,8,50,18,15,565, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,8,40,20,30,710, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,14651.0,14,45,8,45,1080, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,12,45,17,55,310, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,7,55,13,10,315, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,7,50,880, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,7,50,1090, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,17,45,35, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,18,15,65, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,19,15,125, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15193.0,15,30,20,55,325, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15193.0,12,45,20,55,490, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15193.0,10,20,20,55,635, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15193.0,9,30,20,55,685, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15959.0,21,20,8,50,690, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15959.0,21,20,10,45,805, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15959.0,18,10,8,50,880, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15607.0,13,40,8,50,1150, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15607.0,13,40,10,45,1265, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15193.0,14,20,20,55,395, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15193.0,11,40,20,55,555, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15193.0,5,55,20,55,900, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,10,0,18,20,500, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,9,5,18,20,555, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,7,50,635, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,7,0,18,20,680, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,7,50,710, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,55,7,50,715, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,11,10,835, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,11,10,910, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,55,11,10,915, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,7,50,1070, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,18,20,1265, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,11,10,1270, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,18,20,1340, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,55,18,20,1345, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15508.0,18,40,15,55,1275, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15607.0,17,10,8,50,940, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,15607.0,17,10,10,45,1055, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15544.0,7,20,8,45,85, Thu,21,Jul
+Go Air,DEL,BLR,1 Stop,16580.0,6,20,15,0,520, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,14827.0,2,0,9,20,440, Thu,21,Jul
+Indigo Air,DEL,BLR,1 Stop,14827.0,9,55,17,55,480, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,15739.0,17,45,7,50,845, Thu,21,Jul
+Air India,DEL,BLR,1 Stop,15300.0,10,0,7,50,1310, Thu,21,Jul
+Air Asia,DEL,BLR,1 Stop,16376.0,10,40,16,25,345, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16350.0,20,50,20,30,1420, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16474.0,7,30,17,45,615, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16474.0,7,30,18,15,645, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16768.0,17,35,19,30,115, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,16875.0,17,45,20,30,165, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,17647.0,10,15,18,20,485, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,17735.0,10,15,7,50,1295, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,7,50,80, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,17694.0,5,55,7,50,115, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,17190.0,13,10,7,50,1120, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,17,45,15, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,18623.0,18,40,17,45,1385, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,18623.0,18,40,18,15,1415, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,18623.0,18,40,19,15,35, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,18590.0,11,40,7,50,1210, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,18590.0,9,30,7,50,1340, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,20,30,17,45,1275, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,18,15,45, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,20,30,18,15,1305, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,20,30,19,15,1365, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,19616.0,6,15,17,45,690, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,19616.0,6,15,19,15,780, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,18765.0,17,45,23,10,325, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,19616.0,6,15,18,15,720, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,19918.0,11,10,15,55,285, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,19710.0,20,35,19,30,1375, Thu,21,Jul
+Vistara,DEL,BLR,Non Stop,20340.0,17,35,20,25,170, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,20158.0,21,30,8,50,680, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,20158.0,21,30,10,45,795, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,20947.0,7,30,17,45,615, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,7,50,1110, Thu,21,Jul
+Vistara,DEL,BLR,2 Stop,20947.0,7,30,18,15,645, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,23175.0,14,45,19,30,285, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,20550.0,20,40,11,10,870, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,22073.0,7,20,19,30,730, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,21180.0,22,0,11,10,790, Thu,21,Jul
+Air India,DEL,BLR,2 Stop,21705.0,16,15,11,10,1135, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,26953.0,9,50,16,20,390, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,24540.0,10,25,19,30,545, Thu,21,Jul
+Vistara,DEL,BLR,1 Stop,28260.0,15,20,16,20,60, Thu,21,Jul
+Spice Jet,DEL,BLR,Non Stop,9419.0,6,5,8,55,170, Fri,22,Jul
+Spice Jet,DEL,BLR,Non Stop,9943.0,20,0,22,30,150, Fri,22,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,20,30,23,25,175, Fri,22,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,5,50,8,35,165, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,25,0,20,355, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,21,15,380, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,0,20,565, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,21,15,710, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,0,20,895, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,0,8,35,155, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,8,20,11,0,160, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,2,25,5,15,170, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,55,9,50,175, Fri,22,Jul
+Air Asia,DEL,BLR,Non Stop,9995.0,8,10,10,40,150, Fri,22,Jul
+Air Asia,DEL,BLR,Non Stop,10629.0,21,40,0,30,170, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,17,40,405, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,22,45,8,20,575, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,17,40,580, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,19,45,8,20,755, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,20,8,20,840, Fri,22,Jul
+Vistara,DEL,BLR,Non Stop,9419.0,6,15,9,0,165, Fri,22,Jul
+Air India,DEL,BLR,Non Stop,9467.0,6,10,8,55,165, Fri,22,Jul
+Air India,DEL,BLR,Non Stop,9467.0,21,15,0,5,170, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,17,5,0,15,430, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,6,20,15,0,520, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,50,8,20,690, Fri,22,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,13,5,12,55,1430, Fri,22,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,18,55,19,30,35, Fri,22,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,7,0,8,25,85, Fri,22,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,6,30,12,55,385, Fri,22,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,18,50,8,25,815, Fri,22,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,19,30,8,25,775, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,9,15,11,55,160, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,11,30,14,15,165, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,21,30,0,15,165, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,20,10,23,0,170, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,22,55,1,45,170, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,18,0,275, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,17,50,22,40,290, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,50,12,5,315, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,7,55,13,10,315, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,15,20,30,315, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,8,30,14,25,355, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,8,15,385, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,45,12,10,385, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,40,13,10,390, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,7,20,14,25,425, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,10,10,17,20,430, Fri,22,Jul
+Air Asia,DEL,BLR,1 Stop,9466.0,15,30,20,45,315, Fri,22,Jul
+Air Asia,DEL,BLR,1 Stop,9466.0,14,55,22,55,480, Fri,22,Jul
+Air Asia,DEL,BLR,1 Stop,9466.0,5,10,16,25,675, Fri,22,Jul
+Air Asia,DEL,BLR,1 Stop,9466.0,14,55,0,5,550, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,2,0,9,20,440, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,9,30,460, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,11,55,20,30,515, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,22,0,515, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,10,35,525, Fri,22,Jul
+Air India,DEL,BLR,Non Stop,10206.0,17,15,20,15,180, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9960.0,17,55,23,55,360, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,9960.0,17,55,2,35,520, Fri,22,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,8,10,10,50,160, Fri,22,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,9,5,11,50,165, Fri,22,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,14,15,17,5,170, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,10312.0,13,0,15,35,155, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,10501.0,13,35,20,40,425, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,10522.0,15,20,18,15,175, Fri,22,Jul
+Air India,DEL,BLR,Non Stop,10944.0,13,30,16,15,165, Fri,22,Jul
+Air Asia,DEL,BLR,2 Stop,10891.0,12,50,21,40,530, Fri,22,Jul
+Air Asia,DEL,BLR,2 Stop,10891.0,10,40,21,40,660, Fri,22,Jul
+Air Asia,DEL,BLR,2 Stop,10891.0,5,10,21,40,990, Fri,22,Jul
+Air Asia,DEL,BLR,1 Stop,10837.0,12,50,21,40,530, Fri,22,Jul
+Air Asia,DEL,BLR,1 Stop,10837.0,10,40,21,40,660, Fri,22,Jul
+Air Asia,DEL,BLR,1 Stop,10837.0,5,10,21,40,990, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,15168.0,20,20,10,45,865, Fri,22,Jul
+Air India,DEL,BLR,Non Stop,11683.0,9,45,12,30,165, Fri,22,Jul
+Vistara,DEL,BLR,Non Stop,11940.0,16,5,18,50,165, Fri,22,Jul
+Air Asia,DEL,BLR,1 Stop,11599.0,10,40,16,25,345, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,7,50,835, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,11,10,1035, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,7,50,1040, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,11,10,1240, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,18,20,25, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,18,20,230, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,12123.0,21,5,2,35,330, Fri,22,Jul
+Vistara,DEL,BLR,Non Stop,12990.0,20,40,23,20,160, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,7,50,835, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,11,10,1035, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,7,50,1040, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,11,10,1240, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,18,20,25, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,18,20,230, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,12758.0,18,30,21,15,165, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,12664.0,15,0,23,40,520, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,12,45,17,45,300, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,12,45,19,15,390, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,17,45,445, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,17,45,495, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,19,15,535, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,19,15,585, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,8,50,955, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,8,50,1040, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,50,20,30,1420, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,18,0,21,50,230, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,14,20,19,15,295, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,12,45,18,15,330, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,14,10,8,30,1100, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,17,45,365, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,18,15,395, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,19,15,455, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,7,50,980, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,18,15,475, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,18,15,525, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,17,45,535, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,7,50,895, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,18,15,565, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,17,45,615, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,19,15,625, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,18,15,645, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,19,15,705, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,17,45,710, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,18,15,740, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,50,8,30,700, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,19,15,800, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,21,20,8,50,690, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,18,10,7,50,820, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,18,10,8,50,880, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,21,50,955, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,21,20,17,45,1225, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,21,20,18,15,1255, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,21,20,19,15,1315, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,13204.0,8,30,14,25,355, Fri,22,Jul
+Indigo Air,DEL,BLR,Non Stop,13283.0,17,15,19,55,160, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,14093.0,8,40,18,20,580, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,18,10,17,45,1415, Fri,22,Jul
+Spice Jet,DEL,BLR,1 Stop,13487.0,15,10,23,25,495, Fri,22,Jul
+Vistara,DEL,BLR,Non Stop,14355.0,17,35,20,25,170, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,8,50,1150, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,17,45,245, Fri,22,Jul
+Spice Jet,DEL,BLR,1 Stop,14053.0,12,5,23,25,680, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15369.0,13,20,19,15,355, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15369.0,13,20,20,55,455, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,14966.0,7,20,8,45,85, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,18,0,23,40,340, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,17,45,8,50,905, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,7,50,880, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,8,50,940, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,7,50,1090, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,17,45,35, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,18,15,65, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,19,15,125, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,20,55,225, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,5,55,10,45,290, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,14,10,20,30,380, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,15923.0,18,55,9,40,885, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,18,15,275, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,17,45,7,50,845, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15544.0,16,55,10,45,1070, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,10,0,18,20,500, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,9,0,18,20,560, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,8,0,18,20,620, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,21,15,7,50,635, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,7,0,18,20,680, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,20,0,7,50,710, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,19,0,7,50,770, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,21,15,11,10,835, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,20,0,11,10,910, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,19,0,11,10,970, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,14,0,7,50,1070, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,21,15,18,20,1265, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,14,0,11,10,1270, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,20,0,18,20,1340, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15377.0,19,0,18,20,1400, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,21,30,8,50,680, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,21,30,17,45,1215, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,21,30,19,15,1305, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,14827.0,11,15,16,30,315, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,14827.0,13,25,21,35,490, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15649.0,17,10,18,15,65, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,14827.0,12,45,21,35,530, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,21,30,7,50,620, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,21,30,18,15,1245, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,8,40,8,30,1430, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15300.0,10,0,7,50,1310, Fri,22,Jul
+Air India,DEL,BLR,1 Stop,15300.0,9,0,7,50,1370, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,16997.0,11,15,17,15,360, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,16132.0,17,10,10,45,1055, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,16138.0,18,40,15,55,1275, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,16216.0,17,45,8,30,885, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,16216.0,17,45,20,30,165, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,16875.0,17,45,10,45,1020, Fri,22,Jul
+Spice Jet,DEL,BLR,1 Stop,15944.0,14,50,14,35,1425, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,16875.0,8,40,20,30,710, Fri,22,Jul
+Air Asia,DEL,BLR,Non Stop,16356.0,18,45,21,40,175, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,16449.0,13,25,17,55,270, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,16449.0,12,45,17,55,310, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,16449.0,9,55,17,55,480, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,17486.0,20,35,19,30,1375, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,17486.0,17,35,19,30,115, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,17486.0,17,35,8,45,910, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,17486.0,20,35,8,45,730, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,17,10,23,10,360, Fri,22,Jul
+Indigo Air,DEL,BLR,1 Stop,16990.0,15,0,21,35,395, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,20,55,1415, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,7,50,80, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,23,10,110, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,8,50,140, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,17,45,675, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,19,15,765, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,20,55,865, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,17959.0,16,55,23,10,375, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,17959.0,15,30,23,10,460, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,18052.0,10,15,18,20,485, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,17959.0,14,20,23,10,530, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,23,10,590, Fri,22,Jul
+Vistara,DEL,BLR,Non Stop,18030.0,19,50,22,40,170, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18379.0,15,30,20,55,325, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18379.0,12,45,20,55,490, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18379.0,10,20,20,55,635, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18379.0,9,30,20,55,685, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18379.0,14,20,20,55,395, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,17,45,690, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,19,15,780, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18553.0,11,10,15,55,285, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18379.0,11,40,20,55,555, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18379.0,8,50,20,55,725, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18379.0,7,30,20,55,805, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18379.0,5,55,20,55,900, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18590.0,9,30,7,50,1340, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,18590.0,9,30,8,50,1400, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,18767.0,13,40,19,15,335, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,20,30,17,45,1275, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,18,15,720, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,20,30,18,15,1305, Fri,22,Jul
+Go Air,DEL,BLR,Non Stop,20284.0,10,50,15,5,255, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,19290.0,17,45,23,10,325, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,19324.0,12,45,23,10,625, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,19324.0,10,20,23,10,770, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,19324.0,9,30,23,10,820, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,19253.0,18,40,17,45,1385, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,19253.0,18,40,18,15,1415, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,19253.0,18,40,19,15,35, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,19253.0,18,40,20,55,135, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,19253.0,18,40,23,10,270, Fri,22,Jul
+Go Air,DEL,BLR,1 Stop,20183.0,10,50,15,5,255, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,19324.0,11,40,23,10,690, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,19324.0,8,50,23,10,860, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,19324.0,7,30,23,10,940, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,20209.0,7,30,17,45,615, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,20209.0,7,30,19,15,705, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,20209.0,7,30,18,15,645, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,20158.0,21,30,10,45,795, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,21495.0,7,20,19,30,730, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,21180.0,22,0,11,10,790, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,21705.0,20,40,11,10,870, Fri,22,Jul
+Air India,DEL,BLR,2 Stop,21705.0,16,15,11,10,1135, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,23648.0,10,25,19,30,545, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,24015.0,14,45,19,30,285, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,27949.0,15,20,16,20,60, Fri,22,Jul
+Vistara,DEL,BLR,1 Stop,30049.0,9,50,16,20,390, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,35444.0,11,10,17,45,395, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,35444.0,11,10,19,15,485, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,35444.0,11,10,20,55,585, Fri,22,Jul
+Vistara,DEL,BLR,2 Stop,35444.0,11,10,23,10,720, Fri,22,Jul
+Spice Jet,DEL,BLR,Non Stop,9419.0,20,0,22,30,150, Sat,23,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,20,30,23,25,175, Sat,23,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,8,10,10,40,150, Sat,23,Jul
+Spice Jet,DEL,BLR,Non Stop,9419.0,6,5,8,55,170, Sat,23,Jul
+Air Asia,DEL,BLR,Non Stop,9945.0,9,35,12,25,170, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,25,0,20,355, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,10,21,15,785, Sat,23,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,21,40,0,30,170, Sat,23,Jul
+Air Asia,DEL,BLR,Non Stop,9663.0,18,45,21,40,175, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,2,25,5,15,170, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,22,55,1,45,170, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,55,9,50,175, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,21,15,380, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,0,20,565, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,17,40,405, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,30,22,20,470, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,22,45,8,20,575, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,17,40,580, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,22,20,685, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,50,8,20,690, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,19,45,8,20,755, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,20,8,20,840, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,22,20,860, Sat,23,Jul
+Air India,DEL,BLR,Non Stop,9420.0,6,10,8,55,165, Sat,23,Jul
+Air India,DEL,BLR,Non Stop,9420.0,21,15,0,5,170, Sat,23,Jul
+Go Air,DEL,BLR,Non Stop,9466.0,10,50,15,5,255, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,17,5,0,15,430, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,20,10,45,865, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,0,8,35,155, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,21,30,0,15,165, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,20,10,23,0,170, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,18,0,275, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,15,10,15,300, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,50,12,5,315, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,15,20,30,315, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,18,0,23,40,340, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,8,15,385, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,45,12,10,385, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,0,21,35,395, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,9,30,460, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,16034.0,6,20,15,0,520, Sat,23,Jul
+Air Asia,DEL,BLR,2 Stop,9419.0,10,40,21,40,660, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,17,0,19,25,145, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,13,5,12,55,1430, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,17,5,16,50,1425, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,20,25,16,50,1225, Sat,23,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,15,30,20,45,315, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,6,30,12,55,385, Sat,23,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,14,55,22,55,480, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,6,15,14,35,500, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,9,35,19,30,595, Sat,23,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,10,40,21,40,660, Sat,23,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,15,30,1,20,590, Sat,23,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,14,55,0,5,550, Sat,23,Jul
+Vistara,DEL,BLR,Non Stop,9945.0,6,15,9,0,165, Sat,23,Jul
+Vistara,DEL,BLR,Non Stop,9945.0,19,50,22,40,170, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,35,490, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,45,500, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,9,35,18,0,505, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,0,23,40,520, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,12,45,21,35,530, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,7,0,16,20,560, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,50,15,5,255, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,9997.0,8,20,11,0,160, Sat,23,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,8,10,10,50,160, Sat,23,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,20,40,23,20,160, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,10522.0,18,30,21,15,165, Sat,23,Jul
+Air India,DEL,BLR,Non Stop,10890.0,13,30,16,15,165, Sat,23,Jul
+Air India,DEL,BLR,Non Stop,10890.0,17,15,20,15,180, Sat,23,Jul
+Vistara,DEL,BLR,Non Stop,11205.0,16,5,18,50,165, Sat,23,Jul
+Vistara,DEL,BLR,Non Stop,11205.0,17,35,20,25,170, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,10837.0,9,15,11,55,160, Sat,23,Jul
+Air Asia,DEL,BLR,1 Stop,10837.0,10,40,16,25,345, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,11041.0,17,55,23,55,360, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,11047.0,15,20,18,15,175, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,15168.0,5,20,10,45,325, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,11041.0,17,55,2,35,520, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,11362.0,13,0,15,35,155, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,11362.0,17,15,19,55,160, Sat,23,Jul
+Vistara,DEL,BLR,Non Stop,11940.0,9,5,11,50,165, Sat,23,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,7,50,835, Sat,23,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,11,10,1035, Sat,23,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,7,50,1040, Sat,23,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,11,10,1240, Sat,23,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,18,20,25, Sat,23,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,18,20,230, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,14,45,19,30,285, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,18,20,620, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,7,50,1430, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,11,10,190, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,12123.0,6,40,13,10,390, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,12123.0,2,0,9,20,440, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,12123.0,11,55,20,30,515, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,20,35,8,45,730, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,14,45,8,45,1080, Sat,23,Jul
+Vistara,DEL,BLR,Non Stop,12990.0,14,15,17,5,170, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,18,20,25, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,11,10,1240, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,18,20,230, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,7,50,1040, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,11,10,1035, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,7,50,835, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,12664.0,7,55,13,10,315, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,7,20,19,30,730, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,12664.0,7,55,17,55,600, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13599.0,7,20,8,45,85, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,17,45,300, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,15,30,20,55,325, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,17,45,23,10,325, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,16,55,23,10,375, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,19,15,390, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,17,45,445, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,15,30,23,10,460, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,20,55,490, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,9,30,17,45,495, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,19,15,535, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,19,15,585, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,12,45,23,10,625, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,20,55,635, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,8,50,680, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,20,55,685, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,8,50,730, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,23,10,770, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,23,10,820, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,17,45,8,50,905, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,8,50,955, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,8,50,1040, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,19,15,1305, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,19,15,1355, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,20,50,20,30,1420, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,8,0,8,30,30, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,18,15,1295, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,18,15,1245, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,18,0,21,50,230, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,20,19,15,295, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,18,15,330, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,17,45,365, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,18,15,395, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,20,20,55,395, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,19,15,455, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,18,15,475, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,9,30,18,15,525, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,14,20,23,10,530, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,17,45,535, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,20,55,555, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,18,15,565, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,17,45,615, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,19,15,625, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,18,15,645, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,23,10,690, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,19,15,705, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,17,45,710, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,20,55,725, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,18,15,740, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,20,50,8,30,700, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,8,0,20,30,750, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,19,15,800, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,20,55,805, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,23,10,860, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,20,55,900, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,23,10,940, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,8,50,690, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,8,50,880, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,5,55,21,50,955, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,18,15,1255, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,19,15,1315, Sat,23,Jul
+Indigo Air,DEL,BLR,Non Stop,13283.0,11,30,14,15,165, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,14126.0,17,35,8,45,910, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,21,30,10,45,795, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,20,40,10,45,845, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,17,45,10,45,1020, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,16,55,10,45,1070, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,13745.0,12,45,17,55,310, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,13745.0,8,30,14,25,355, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,13745.0,21,5,2,35,330, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,10,45,805, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,10,45,995, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,8,50,1150, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,10,45,1265, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,14565.0,7,0,18,20,680, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,21,30,17,45,1215, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,20,40,17,45,1265, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,13,25,17,55,270, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,11,15,16,30,315, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,8,50,940, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,10,45,1055, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,18,15,65, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,19,15,125, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,18,15,275, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,9,55,17,55,480, Sat,23,Jul
+Air India,DEL,BLR,Non Stop,14880.0,9,45,12,30,165, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,10,0,18,20,500, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,9,0,18,20,560, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,7,50,635, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,7,50,710, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,7,50,770, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,11,10,835, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,11,10,910, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,11,10,970, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,7,50,1070, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,18,20,1265, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,11,10,1270, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,18,20,1340, Sat,23,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,18,20,1400, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,17186.0,11,45,9,30,1305, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,5,55,10,45,290, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,19,0,8,50,830, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,19,0,19,15,15, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,14790.0,14,50,14,35,1425, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,17,45,20,30,165, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,14,10,8,30,1100, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,14,10,20,30,380, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,17,45,8,30,885, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,15691.0,19,0,18,15,1395, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,16138.0,11,10,15,55,285, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,16331.0,10,25,19,30,545, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,19,0,10,45,945, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,16331.0,10,25,8,45,1340, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,15589.0,7,0,8,25,85, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,15589.0,18,50,8,25,815, Sat,23,Jul
+Spice Jet,DEL,BLR,1 Stop,15589.0,19,30,8,25,775, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,15929.0,7,20,14,25,425, Sat,23,Jul
+Go Air,DEL,BLR,1 Stop,17817.0,11,15,17,15,360, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,16804.0,20,35,19,30,1375, Sat,23,Jul
+Air India,DEL,BLR,2 Stop,17647.0,10,15,18,20,485, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,20,55,1415, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,23,10,110, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,8,50,140, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,18,10,20,55,165, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,18,10,23,10,300, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,20,55,865, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,18135.0,17,35,19,30,115, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,20,55,455, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,23,10,590, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,17,45,615, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,17,45,690, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,19,15,705, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,19,15,780, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,20,55,805, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,20,55,880, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,8,50,920, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,23,10,940, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,23,10,1015, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,15,55,8,50,1015, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,10,45,1035, Sat,23,Jul
+Air India,DEL,BLR,2 Stop,17647.0,10,15,7,50,1295, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,18,15,720, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,18,15,645, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,19708.0,17,10,18,15,65, Sat,23,Jul
+Indigo Air,DEL,BLR,1 Stop,18612.0,10,10,17,20,430, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,20,35,20,55,20, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,20,35,23,10,155, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,17,35,20,55,200, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,17,35,23,10,335, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,14,45,20,55,370, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,14,45,23,10,505, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,7,20,20,55,815, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,7,20,23,10,950, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,20,55,455, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,23,10,590, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,8,50,1170, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,22804.0,15,20,16,20,60, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,26148.0,10,25,20,55,630, Sat,23,Jul
+Vistara,DEL,BLR,2 Stop,26148.0,10,25,23,10,765, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,28843.0,9,50,16,20,390, Sat,23,Jul
+Air Asia,DEL,BLR,1 Stop,28346.0,7,10,15,25,495, Sat,23,Jul
+Air Asia,DEL,BLR,1 Stop,28346.0,5,45,15,25,580, Sat,23,Jul
+Vistara,DEL,BLR,1 Stop,32884.0,18,40,15,55,1275, Sat,23,Jul
+Spice Jet,DEL,BLR,Non Stop,9419.0,6,5,8,55,170, Sun,24,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,20,30,23,25,175, Sun,24,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,5,50,8,35,165, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,15193.0,18,25,0,20,355, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,21,15,710, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,0,20,895, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,0,8,35,155, Sun,24,Jul
+Air Asia,DEL,BLR,Non Stop,11571.0,18,45,21,40,175, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,17,40,405, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,30,22,20,470, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,22,45,8,20,575, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,17,40,580, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,22,20,685, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,50,8,20,690, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,19,45,8,20,755, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,20,8,20,840, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,22,20,860, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9926.0,18,55,9,40,885, Sun,24,Jul
+Air Asia,DEL,BLR,Non Stop,12779.0,8,10,10,40,150, Sun,24,Jul
+Air Asia,DEL,BLR,Non Stop,12779.0,9,35,12,25,170, Sun,24,Jul
+Air Asia,DEL,BLR,Non Stop,12779.0,21,40,0,30,170, Sun,24,Jul
+Air India,DEL,BLR,Non Stop,9420.0,6,10,8,55,165, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,15193.0,14,55,21,15,380, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,15193.0,14,55,0,20,565, Sun,24,Jul
+Air India,DEL,BLR,Non Stop,9420.0,21,15,0,5,170, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,5,20,10,45,325, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,13,5,12,55,1430, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,17,5,16,50,1425, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,14,0,15,25,85, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,20,25,16,50,1225, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,6,30,12,55,385, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,18,50,8,25,815, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,19,30,8,25,775, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,21,30,0,15,165, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,2,25,5,15,170, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,20,10,23,0,170, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,22,55,1,45,170, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,55,9,50,175, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,18,0,275, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,17,50,22,40,290, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,50,12,5,315, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,15,20,30,315, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,17,55,23,55,360, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,8,15,385, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,45,12,10,385, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,6,40,13,10,390, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,15,30,20,45,315, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,15,30,1,20,590, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,2,0,9,20,440, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,9,30,460, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,9,35,18,0,505, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,45,500, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,11,55,20,30,515, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,10010.0,21,5,2,35,330, Sun,24,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,8,10,10,50,160, Sun,24,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,20,40,23,20,160, Sun,24,Jul
+Spice Jet,DEL,BLR,Non Stop,10574.0,20,0,22,30,150, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,10554.0,18,0,23,40,340, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,10554.0,13,0,21,5,485, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,10501.0,17,55,2,35,520, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,11096.0,11,15,16,30,315, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,11047.0,8,20,11,0,160, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,15168.0,17,5,0,15,430, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,15168.0,20,20,10,45,865, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,11362.0,18,30,21,15,165, Sun,24,Jul
+Vistara,DEL,BLR,Non Stop,11940.0,19,50,22,40,170, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,11541.0,14,55,22,55,480, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,11541.0,14,55,0,5,550, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,11640.0,7,55,13,10,315, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,11640.0,15,0,21,35,395, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,11640.0,13,25,21,35,490, Sun,24,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,7,50,835, Sun,24,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,11,10,1035, Sun,24,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,7,50,1040, Sun,24,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,11,10,1240, Sun,24,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,18,20,25, Sun,24,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,18,20,230, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,18,20,620, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,7,50,1430, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,11,10,190, Sun,24,Jul
+Vistara,DEL,BLR,Non Stop,12990.0,9,5,11,50,165, Sun,24,Jul
+Vistara,DEL,BLR,Non Stop,12990.0,17,35,20,25,170, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,18,20,25, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,11,10,1240, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,18,20,230, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,7,50,1040, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,11,10,1035, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,7,50,835, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,12589.0,14,50,14,35,1425, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,12759.0,10,40,16,25,345, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,12759.0,5,10,16,25,675, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13599.0,7,20,8,45,85, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,19,15,390, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,19,15,535, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,19,15,585, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,8,50,680, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,8,50,830, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,17,45,8,50,905, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,8,50,955, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,8,50,1040, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,17,45,1215, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,19,15,1305, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,17,45,1365, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,19,15,15, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,8,40,8,30,1430, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,18,15,1395, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,18,15,1245, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,18,0,21,50,230, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,18,15,330, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,18,15,395, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,19,15,455, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,7,50,980, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,18,15,475, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,9,30,18,15,525, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,7,50,895, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,8,50,18,15,565, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,17,45,7,50,845, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,19,15,625, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,18,15,645, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,7,50,770, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,19,15,705, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,8,40,20,30,710, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,7,50,620, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,8,50,690, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,5,55,21,50,955, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,17,45,1225, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,18,15,1255, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,19,15,1315, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,20,55,1415, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,13270.0,10,10,17,20,430, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,13204.0,9,55,17,55,480, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,13935.0,7,0,18,20,680, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15611.0,17,10,18,15,65, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,14126.0,17,35,8,45,910, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,14126.0,20,35,8,45,730, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,14126.0,14,45,8,45,1080, Sun,24,Jul
+Vistara,DEL,BLR,Non Stop,14355.0,16,5,18,50,165, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,13814.0,8,30,15,30,420, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,13882.0,9,15,11,55,160, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,13745.0,15,0,23,40,520, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,17,45,245, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,14809.0,15,30,20,55,325, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,14809.0,17,45,23,10,325, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,16,55,23,10,375, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,15,30,23,10,460, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,12,45,20,55,490, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,14565.0,9,0,18,20,560, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,12,45,17,45,300, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,10,20,17,45,445, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,9,30,17,45,495, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,12,45,23,10,625, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,10,20,20,55,635, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,9,30,20,55,685, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,10,20,23,10,770, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,9,30,23,10,820, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,14809.0,11,40,20,55,555, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,20,40,8,50,730, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,19,45,8,50,785, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,20,40,17,45,1265, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,19,45,17,45,1320, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,20,40,19,15,1355, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,19,45,19,15,1410, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,17,45,35, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,18,15,65, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,19,15,125, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,20,55,225, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,11,40,17,45,365, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,8,50,17,45,535, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,7,30,17,45,615, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,11,40,23,10,690, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,8,50,20,55,725, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,7,30,20,55,805, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,8,50,23,10,860, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15019.0,7,30,23,10,940, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15195.0,17,35,19,30,115, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,14333.0,11,30,14,15,165, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16033.0,18,40,15,55,1275, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,19,45,18,15,1350, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,20,40,18,15,1295, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,19,45,7,50,725, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,20,40,7,50,670, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15607.0,13,40,8,50,1150, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,13,35,20,40,425, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,14413.0,9,35,19,30,595, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15195.0,20,35,19,30,1375, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,20,50,20,30,1420, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15823.0,20,50,8,30,700, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15959.0,18,10,7,50,820, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15959.0,18,10,8,50,880, Sun,24,Jul
+Air India,DEL,BLR,Non Stop,14880.0,9,45,12,30,165, Sun,24,Jul
+Air India,DEL,BLR,Non Stop,14880.0,17,15,20,15,180, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15544.0,21,30,10,45,795, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15544.0,19,0,10,45,945, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15544.0,17,45,10,45,1020, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,15544.0,16,55,10,45,1070, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,10,0,18,20,500, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,7,50,635, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,7,50,710, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,7,50,770, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,11,10,835, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,11,10,910, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,11,10,970, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,7,50,1070, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,18,20,1265, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,11,10,1270, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,18,20,1340, Sun,24,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,18,20,1400, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,17186.0,11,45,9,30,1305, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15607.0,17,10,7,50,880, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15607.0,17,10,8,50,940, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,15607.0,13,40,7,50,1090, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,14901.0,12,45,17,55,310, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,16580.0,6,20,15,0,520, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,14932.0,13,0,15,35,155, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,14932.0,15,20,18,15,175, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,14,20,19,15,295, Sun,24,Jul
+Vistara,DEL,BLR,Non Stop,16035.0,14,15,17,5,170, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,15444.0,13,25,17,55,270, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,15444.0,7,20,14,25,425, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16216.0,14,10,8,30,1100, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16873.0,14,10,20,30,380, Sun,24,Jul
+Indigo Air,DEL,BLR,1 Stop,15988.0,8,30,14,25,355, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16875.0,20,40,10,45,845, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16875.0,19,45,10,45,900, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,17817.0,11,15,17,15,360, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16875.0,14,20,20,55,395, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16875.0,14,20,23,10,530, Sun,24,Jul
+Air India,DEL,BLR,Non Stop,16455.0,13,30,16,15,165, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16951.0,17,45,8,30,885, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,16951.0,17,45,20,30,165, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,17608.0,7,20,19,30,730, Sun,24,Jul
+Air India,DEL,BLR,2 Stop,17647.0,10,15,18,20,485, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,13,40,19,15,335, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,17,10,23,10,360, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,13,40,20,55,435, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,13,40,23,10,570, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,18,10,17,45,1415, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,18,10,19,15,65, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,7,50,80, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,8,50,140, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,18135.0,14,45,19,30,285, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,8,50,920, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,15,55,8,50,1015, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,17,45,15, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,8,50,80, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,7,50,95, Sun,24,Jul
+Air Asia,DEL,BLR,2 Stop,19237.0,12,50,21,40,530, Sun,24,Jul
+Air Asia,DEL,BLR,2 Stop,19237.0,10,40,21,40,660, Sun,24,Jul
+Air Asia,DEL,BLR,2 Stop,19237.0,5,10,21,40,990, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,18,15,45, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,20,30,17,45,1275, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,20,30,18,15,1305, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,20,30,19,15,1365, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,20,30,20,55,25, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,7,50,20, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,15,55,7,50,955, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,7,50,860, Sun,24,Jul
+Indigo Air,DEL,BLR,Non Stop,18659.0,17,15,19,55,160, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,19085.0,15,10,23,25,495, Sun,24,Jul
+Spice Jet,DEL,BLR,1 Stop,19085.0,12,5,23,25,680, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,19237.0,12,50,21,40,530, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,19237.0,10,40,21,40,660, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,19237.0,5,10,21,40,990, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,20,35,17,45,1270, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,20,35,19,15,1360, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,17,35,17,45,10, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,20,55,455, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,23,10,590, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,7,50,1110, Sun,24,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,8,50,1170, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,21128.0,10,25,19,30,545, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,22755.0,15,20,16,20,60, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,24225.0,9,50,16,20,390, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,24146.0,7,10,15,25,495, Sun,24,Jul
+Air Asia,DEL,BLR,1 Stop,24146.0,5,45,15,25,580, Sun,24,Jul
+Air India,DEL,BLR,2 Stop,28688.0,16,50,7,50,900, Sun,24,Jul
+Air India,DEL,BLR,2 Stop,28688.0,16,50,11,10,1100, Sun,24,Jul
+Go Air,DEL,BLR,Non Stop,31112.0,10,50,15,5,255, Sun,24,Jul
+Go Air,DEL,BLR,1 Stop,30957.0,10,50,15,5,255, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,32884.0,7,10,15,55,525, Sun,24,Jul
+Vistara,DEL,BLR,1 Stop,33773.0,11,10,15,55,285, Sun,24,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,5,50,8,35,165, Mon,25,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,20,30,23,25,175, Mon,25,Jul
+Spice Jet,DEL,BLR,Non Stop,11309.0,20,0,22,30,150, Mon,25,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,8,10,10,40,150, Mon,25,Jul
+Spice Jet,DEL,BLR,Non Stop,9419.0,6,5,8,55,170, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,25,0,20,355, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,21,15,380, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,0,20,565, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,21,15,710, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,0,20,895, Mon,25,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,21,40,0,30,170, Mon,25,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,18,45,21,40,175, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,21,30,0,15,165, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,22,55,1,45,170, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,17,40,405, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,30,22,20,470, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,22,45,8,20,575, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,17,40,580, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,22,20,685, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,50,8,20,690, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,19,45,8,20,755, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,20,8,20,840, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,22,20,860, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9926.0,18,55,9,40,885, Mon,25,Jul
+Air India,DEL,BLR,Non Stop,9420.0,6,10,8,55,165, Mon,25,Jul
+Air India,DEL,BLR,Non Stop,9420.0,9,45,12,30,165, Mon,25,Jul
+Air India,DEL,BLR,Non Stop,9420.0,13,30,16,15,165, Mon,25,Jul
+Air India,DEL,BLR,Non Stop,9420.0,21,15,0,5,170, Mon,25,Jul
+Air India,DEL,BLR,Non Stop,9420.0,16,45,20,15,210, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,17,5,0,15,430, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,6,20,15,0,520, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,0,8,35,155, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,13,0,15,35,155, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,8,20,11,0,160, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,9,15,11,55,160, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,17,15,19,55,160, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,11,30,14,15,165, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,18,30,21,15,165, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,2,25,5,15,170, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,20,10,23,0,170, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,55,9,50,175, Mon,25,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,15,20,18,15,175, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,13,25,17,55,270, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,18,0,275, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,15,10,15,300, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,12,45,17,55,310, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,50,12,5,315, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,7,55,13,10,315, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,11,15,16,30,315, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,15,20,30,315, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,18,0,23,40,340, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,8,30,14,25,355, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,8,30,14,25,355, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,17,55,23,55,360, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,1,50,8,15,385, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,45,12,10,385, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,40,13,10,390, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,0,21,35,395, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,7,20,14,25,425, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,13,35,20,40,425, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,10,10,17,20,430, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,21,5,2,35,330, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,13,5,12,55,1430, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,14,50,14,35,1425, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,14,0,12,10,1330, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,20,25,16,50,1225, Mon,25,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,15,30,20,45,315, Mon,25,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,10,40,16,25,345, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,6,30,12,55,385, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,9,20,16,50,450, Mon,25,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,7,10,15,25,495, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,15,10,23,25,495, Mon,25,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,5,45,15,25,580, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,9,35,19,30,595, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,19,30,8,25,775, Mon,25,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,5,10,16,25,675, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,12,5,23,25,680, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,2,0,9,20,440, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9466.0,1,50,9,30,460, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,0,21,5,485, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,35,490, Mon,25,Jul
+Vistara,DEL,BLR,Non Stop,9945.0,20,40,23,20,160, Mon,25,Jul
+Vistara,DEL,BLR,Non Stop,9945.0,17,35,20,25,170, Mon,25,Jul
+Vistara,DEL,BLR,Non Stop,9945.0,19,50,22,40,170, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,9,35,18,0,505, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,45,500, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,11,55,20,30,515, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,0,23,40,520, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,17,55,2,35,520, Mon,25,Jul
+Air Asia,DEL,BLR,2 Stop,9736.0,10,40,21,40,660, Mon,25,Jul
+Air Asia,DEL,BLR,2 Stop,9736.0,5,10,21,40,990, Mon,25,Jul
+Air Asia,DEL,BLR,1 Stop,9736.0,10,40,21,40,660, Mon,25,Jul
+Air Asia,DEL,BLR,1 Stop,9736.0,5,10,21,40,990, Mon,25,Jul
+Indigo Air,DEL,BLR,1 Stop,10010.0,9,55,17,55,480, Mon,25,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,6,15,9,0,165, Mon,25,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,16,5,18,50,165, Mon,25,Jul
+Air Asia,DEL,BLR,1 Stop,10049.0,14,55,22,55,480, Mon,25,Jul
+Air Asia,DEL,BLR,1 Stop,10049.0,14,55,0,5,550, Mon,25,Jul
+Vistara,DEL,BLR,Non Stop,11205.0,8,10,10,50,160, Mon,25,Jul
+Vistara,DEL,BLR,Non Stop,11205.0,9,5,11,50,165, Mon,25,Jul
+Vistara,DEL,BLR,Non Stop,11205.0,14,15,17,5,170, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,15168.0,5,20,10,45,325, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,15168.0,20,20,10,45,865, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,7,50,835, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,11,10,1035, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,7,50,1040, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,11,10,1240, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,18,20,25, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,18,20,230, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,18,20,620, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,7,50,1430, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,11,10,190, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,17,35,8,45,910, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,20,35,8,45,730, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,12795.0,10,25,8,45,1340, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,14,45,8,45,1080, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,18,20,25, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,11,10,1240, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,18,20,230, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,7,50,1040, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,11,10,1035, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,7,50,835, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13599.0,7,20,8,45,85, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,17,45,300, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,15,30,20,55,325, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,17,45,23,10,325, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,16,55,23,10,375, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,19,15,390, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,17,45,445, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,15,30,23,10,460, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,20,55,490, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,17,45,495, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,19,15,535, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,19,15,585, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,12,45,23,10,625, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,20,55,635, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,8,50,680, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,20,55,685, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,8,50,730, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,23,10,770, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,23,10,820, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,8,50,830, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,17,45,8,50,905, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,8,50,955, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,8,50,1040, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,17,45,1215, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,17,45,1265, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,19,15,1305, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,19,15,1355, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,17,45,1365, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,19,15,15, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14668.0,14,45,19,30,285, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14668.0,10,25,19,30,545, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13864.0,17,35,19,30,115, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,20,50,20,30,1420, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,17,45,20,30,165, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,18,0,21,50,230, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,20,19,15,295, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,18,15,330, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,17,45,365, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,10,20,30,380, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,18,15,395, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,20,20,55,395, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,19,15,455, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,7,50,980, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,18,15,475, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,18,15,525, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,14,20,23,10,530, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,17,45,535, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,7,50,895, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,20,55,555, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,18,15,565, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,17,45,7,50,845, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,19,15,625, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,7,50,770, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,23,10,690, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,17,45,710, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,20,55,725, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,18,15,740, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,7,50,670, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,19,15,800, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,7,50,620, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,23,10,860, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,20,55,900, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13864.0,20,35,19,30,1375, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,8,50,690, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,7,50,820, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,8,50,880, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,5,55,21,50,955, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,17,45,1225, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,18,15,1255, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,19,15,1315, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,13971.0,18,10,17,45,1415, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,18,15,1245, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,18,15,1295, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,18,15,1395, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14093.0,18,40,15,55,1275, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15611.0,17,10,18,15,65, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,21,30,10,45,795, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,20,40,10,45,845, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,19,0,10,45,945, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,17,45,10,45,1020, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,16,55,10,45,1070, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,14668.0,7,20,19,30,730, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,10,45,805, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,10,45,995, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,8,50,1150, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,14565.0,7,0,18,20,680, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,7,50,880, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,8,50,940, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,10,45,1055, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,7,50,1090, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,7,30,17,45,615, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,7,30,18,15,645, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,7,30,19,15,705, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,7,30,20,55,805, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,15166.0,7,30,23,10,940, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,10,0,18,20,500, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,9,0,18,20,560, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,7,50,635, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,7,50,710, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,7,50,770, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,11,10,835, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,11,10,910, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,11,10,970, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,7,50,1070, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,18,20,1265, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,11,10,1270, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,18,20,1340, Mon,25,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,18,20,1400, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,16348.0,5,55,10,45,290, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,16033.0,11,10,15,55,285, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,15510.0,13,20,7,50,1110, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,17817.0,11,15,17,15,360, Mon,25,Jul
+Go Air,DEL,BLR,Non Stop,17928.0,10,50,15,5,255, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,16951.0,8,40,20,30,710, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,17647.0,10,15,18,20,485, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,17,10,17,45,35, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,17,10,19,15,125, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,17,10,20,55,225, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,17,10,23,10,360, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,20,55,1415, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,7,50,80, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,23,10,110, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,8,50,140, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,10,45,255, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,6,30,17,45,675, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,19,15,355, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,20,55,455, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,23,10,590, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,17,45,615, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,17,45,690, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,19,15,705, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,19,15,780, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,20,55,805, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,20,55,880, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,8,50,920, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,23,10,940, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,15,55,8,50,1015, Mon,25,Jul
+Spice Jet,DEL,BLR,1 Stop,17916.0,17,0,19,25,145, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,23,10,1015, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,18,15,720, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,18,15,645, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,15,55,7,50,955, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,7,50,860, Mon,25,Jul
+Go Air,DEL,BLR,1 Stop,17839.0,10,50,15,5,255, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,19234.0,15,20,16,20,60, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,20,55,455, Mon,25,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,23,10,590, Mon,25,Jul
+Vistara,DEL,BLR,1 Stop,22228.0,9,50,16,20,390, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,20865.0,17,15,7,50,875, Mon,25,Jul
+Air India,DEL,BLR,2 Stop,20865.0,17,15,11,10,1075, Mon,25,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,5,50,8,35,165, Tue,26,Jul
+Go Air,DEL,BLR,Non Stop,9419.0,20,30,23,25,175, Tue,26,Jul
+Spice Jet,DEL,BLR,Non Stop,9418.0,20,0,22,30,150, Tue,26,Jul
+Spice Jet,DEL,BLR,Non Stop,9418.0,6,5,8,55,170, Tue,26,Jul
+Air Asia,DEL,BLR,Non Stop,9663.0,8,10,10,40,150, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,25,0,20,355, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,21,15,380, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,55,0,20,565, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,21,15,710, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,9,25,0,20,895, Tue,26,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,21,40,0,30,170, Tue,26,Jul
+Air Asia,DEL,BLR,Non Stop,9419.0,18,45,21,40,175, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,0,8,35,155, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,8,20,11,0,160, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,9,15,11,55,160, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,2,25,5,15,170, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,22,55,1,45,170, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,6,55,9,50,175, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,17,40,405, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,14,30,22,20,470, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,22,45,8,20,575, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,17,40,580, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,55,22,20,685, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,50,8,20,690, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,19,45,8,20,755, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,18,20,8,20,840, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,8,0,22,20,860, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9926.0,18,55,9,40,885, Tue,26,Jul
+Vistara,DEL,BLR,Non Stop,9418.0,20,40,23,20,160, Tue,26,Jul
+Vistara,DEL,BLR,Non Stop,9418.0,6,15,9,0,165, Tue,26,Jul
+Vistara,DEL,BLR,Non Stop,9418.0,19,50,22,40,170, Tue,26,Jul
+Vistara,DEL,BLR,Non Stop,9418.0,9,5,11,50,165, Tue,26,Jul
+Air India,DEL,BLR,Non Stop,9420.0,6,10,8,55,165, Tue,26,Jul
+Air India,DEL,BLR,Non Stop,9420.0,9,45,12,30,165, Tue,26,Jul
+Air India,DEL,BLR,Non Stop,9420.0,21,15,0,5,170, Tue,26,Jul
+Go Air,DEL,BLR,Non Stop,9466.0,10,50,15,5,255, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,17,5,0,15,430, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,20,20,10,45,865, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,13,0,15,35,155, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,17,15,19,55,160, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,11,30,14,15,165, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,18,30,21,15,165, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,21,30,0,15,165, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,20,10,23,0,170, Tue,26,Jul
+Indigo Air,DEL,BLR,Non Stop,9419.0,15,20,18,15,175, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,17,55,270, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,18,0,275, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,12,45,17,55,310, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,50,12,5,315, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,7,55,13,10,315, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,15,15,20,30,315, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,18,0,23,40,340, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,8,30,14,25,355, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,17,55,23,55,360, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,8,15,385, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,5,45,12,10,385, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,6,40,13,10,390, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,7,20,14,25,425, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,35,20,40,425, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,10,10,17,20,430, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,16034.0,6,20,15,0,520, Tue,26,Jul
+Air Asia,DEL,BLR,2 Stop,9419.0,10,40,21,40,660, Tue,26,Jul
+Air Asia,DEL,BLR,2 Stop,9419.0,5,10,21,40,990, Tue,26,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,14,0,15,25,85, Tue,26,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,14,50,14,35,1425, Tue,26,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,17,5,16,50,1425, Tue,26,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,14,0,12,10,1330, Tue,26,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,20,25,16,50,1225, Tue,26,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,15,30,20,45,315, Tue,26,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,10,40,16,25,345, Tue,26,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,6,30,12,55,385, Tue,26,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,7,10,15,25,495, Tue,26,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,5,45,15,25,580, Tue,26,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,10,40,21,40,660, Tue,26,Jul
+Spice Jet,DEL,BLR,1 Stop,9419.0,19,30,8,25,775, Tue,26,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,5,10,16,25,675, Tue,26,Jul
+Air Asia,DEL,BLR,1 Stop,9419.0,5,10,21,40,990, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,1,50,9,30,460, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,9,55,17,55,480, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,35,490, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,13,25,21,45,500, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,9,35,18,0,505, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,9419.0,10,50,15,5,255, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,11,55,20,30,515, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,17,55,2,35,520, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,9419.0,12,45,21,35,530, Tue,26,Jul
+Air India,DEL,BLR,Non Stop,10155.0,17,15,20,15,180, Tue,26,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,8,10,10,50,160, Tue,26,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,16,5,18,50,165, Tue,26,Jul
+Vistara,DEL,BLR,Non Stop,10575.0,14,15,17,5,170, Tue,26,Jul
+Air Asia,DEL,BLR,1 Stop,10311.0,14,55,22,55,480, Tue,26,Jul
+Air Asia,DEL,BLR,1 Stop,10311.0,14,55,0,5,550, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,10501.0,15,0,23,40,520, Tue,26,Jul
+Vistara,DEL,BLR,Non Stop,11205.0,17,35,20,25,170, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,11041.0,15,0,21,35,395, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,11041.0,8,30,15,30,420, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,15168.0,5,20,10,45,325, Tue,26,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,7,50,835, Tue,26,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,11,10,1035, Tue,26,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,7,50,1040, Tue,26,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,11,10,1240, Tue,26,Jul
+Air India,DEL,BLR,2 Stop,12738.0,17,55,18,20,25, Tue,26,Jul
+Air India,DEL,BLR,2 Stop,12738.0,14,30,18,20,230, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,18,20,620, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,7,50,1430, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,12675.0,8,0,11,10,190, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,12123.0,21,5,2,35,330, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,12795.0,10,25,8,45,1340, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14141.0,14,45,8,45,1080, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,12123.0,21,5,6,5,540, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,18,20,25, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,11,10,1240, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,18,20,230, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,12675.0,14,30,7,50,1040, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,11,10,1035, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,12675.0,17,55,7,50,835, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,14089.0,13,20,19,15,355, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,17,45,300, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,15,30,20,55,325, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,17,45,23,10,325, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,16,55,23,10,375, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,19,15,390, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,17,45,445, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,15,30,23,10,460, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,20,55,490, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,9,30,17,45,495, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,19,15,535, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,19,15,585, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,12,45,23,10,625, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,20,55,635, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,8,50,680, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,20,55,685, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,8,50,730, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,10,20,23,10,770, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,9,30,23,10,820, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,8,50,830, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,17,45,8,50,905, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,8,50,955, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,8,50,1040, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,17,45,1215, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,17,45,1265, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,19,15,1305, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,19,15,1355, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,17,45,1365, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,19,15,15, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14668.0,14,45,19,30,285, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14668.0,10,25,19,30,545, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,8,40,8,30,1430, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,20,50,20,30,1420, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,18,15,1395, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,18,15,1295, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,17,45,20,30,165, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,18,15,1245, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,20,19,15,295, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,12,45,18,15,330, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,10,8,30,1100, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,17,45,365, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,10,20,30,380, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,18,15,395, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,20,20,55,395, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,11,40,19,15,455, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,15,30,7,50,980, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,10,20,18,15,475, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,9,30,18,15,525, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,14,20,23,10,530, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,17,45,535, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,16,55,7,50,895, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,20,55,555, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,17,45,8,30,885, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,18,15,565, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,17,45,7,50,845, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,17,45,615, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,19,15,625, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,18,15,645, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,19,0,7,50,770, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,11,40,23,10,690, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,19,15,705, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,17,45,710, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,8,40,20,30,710, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,20,55,725, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,18,15,740, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,20,50,8,30,700, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,20,40,7,50,670, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,19,15,800, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,20,55,805, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,21,30,7,50,620, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,8,50,23,10,860, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,5,55,20,55,900, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,13834.0,7,30,23,10,940, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,8,50,690, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,7,50,820, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,8,50,880, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,17,45,1225, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,13204.0,11,15,16,30,315, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14093.0,18,40,15,55,1275, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15611.0,17,10,18,15,65, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14126.0,20,35,8,45,730, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,21,30,10,45,795, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,20,40,10,45,845, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,19,0,10,45,945, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,17,45,10,45,1020, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14492.0,16,55,10,45,1070, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15296.0,5,55,10,45,290, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,10,45,805, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,18,10,10,45,995, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,8,50,1150, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,10,45,1265, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14981.0,11,10,15,55,285, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,14966.0,7,20,8,45,85, Tue,26,Jul
+Indigo Air,DEL,BLR,1 Stop,14286.0,2,0,9,20,440, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,7,50,880, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,8,50,940, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,17,10,10,45,1055, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15082.0,13,40,7,50,1090, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15176.0,17,35,8,45,910, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,10,0,18,20,500, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,9,0,18,20,560, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,7,50,635, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,7,0,18,20,680, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,7,50,710, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,7,50,770, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,11,10,835, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,11,10,910, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,11,10,970, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,7,50,1070, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,21,15,18,20,1265, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,14,0,11,10,1270, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,20,0,18,20,1340, Tue,26,Jul
+Air India,DEL,BLR,1 Stop,15300.0,19,0,18,20,1400, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,15720.0,20,35,19,30,1375, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,16035.0,7,20,19,30,730, Tue,26,Jul
+Spice Jet,DEL,BLR,1 Stop,15113.0,18,50,8,25,815, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,15432.0,21,20,18,15,1255, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,16770.0,17,35,19,30,115, Tue,26,Jul
+Go Air,DEL,BLR,1 Stop,17817.0,11,15,17,15,360, Tue,26,Jul
+Spice Jet,DEL,BLR,1 Stop,15998.0,6,15,19,25,790, Tue,26,Jul
+Air India,DEL,BLR,2 Stop,17647.0,10,15,18,20,485, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,17,10,19,15,125, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,17759.0,13,40,19,15,335, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,19,15,1315, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,21,20,20,55,1415, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,17840.0,18,10,19,15,65, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,20,55,455, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18140.0,13,20,23,10,590, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,17,45,615, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,17,45,690, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,19,15,705, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,19,15,780, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,20,55,805, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,20,55,880, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,8,50,920, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,23,10,940, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,23,10,1015, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,15,55,8,50,1015, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,6,15,18,15,720, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,7,30,18,15,645, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,15,55,7,50,955, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,18877.0,17,30,7,50,860, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,19035.0,6,30,7,50,80, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,19035.0,6,30,8,50,140, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,19035.0,6,30,10,45,255, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,19234.0,15,20,16,20,60, Tue,26,Jul
+Vistara,DEL,BLR,1 Stop,20128.0,9,50,16,20,390, Tue,26,Jul
+Air India,DEL,BLR,2 Stop,18555.0,13,20,7,50,1110, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,20212.0,20,35,19,15,1360, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,20,55,455, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,23,10,590, Tue,26,Jul
+Vistara,DEL,BLR,2 Stop,20716.0,13,20,7,50,1110, Tue,26,Jul
